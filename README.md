@@ -8,7 +8,7 @@ Robin------------------|Dick Grayson------|![robin](https://mural.uv.es/franpevi
 
 ***
 ## Tareas a llevar a cabo por Alfred
- [x] *Limpiar el ~~coche de Batman~~ Batmovil*
+- [x] *Limpiar el ~~coche de Batman~~ Batmovil*
  <br>
 *Cocinar Langosta Terminador*
 <br>

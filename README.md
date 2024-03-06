@@ -9,5 +9,7 @@ Robin--------Dick Grayson---------![robin](https://upload.wikimedia.org/wikipedi
 ***
 ## Tareas a llevar a cabo por Alfred
 - [ x ] *Limpiar el ~~coche de Batman~~ Batmovil*
+ <br>
 *Cocinar Langosta Terminador*
-*Aprender a bailar el ![batusi](https://www.youtube.com/watch?v=RsYA8Gr5NTY)*
+<br>
+Aprender a bailar el ![batusi](https://www.youtube.com/watch?v=RsYA8Gr5NTY)

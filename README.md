@@ -9,7 +9,5 @@ Robin------------------|Dick Grayson------|![robin](https://mural.uv.es/franpevi
 ***
 ## Tareas a llevar a cabo por Alfred
 - [x] *Limpiar el ~~coche de Batman~~ Batmovil*
- <br>
-*Cocinar Langosta Terminador*
-<br>
-*Aprender a bailar el [ batusi ](https://www.youtube.com/watch?v=RsYA8Gr5NTY](https://youtu.be/wnoBD1OPUX4)https://youtu.be/wnoBD1OPUX4)*
+- *Cocinar Langosta Terminador*
+- *Aprender a bailar el [ batusi ](https://www.youtube.com/watch?v=RsYA8Gr5NTY](https://youtu.be/wnoBD1OPUX4)https://youtu.be/wnoBD1OPUX4)*
